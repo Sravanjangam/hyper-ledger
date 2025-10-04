@@ -158,10 +158,7 @@ The REST API uses the Fabric Gateway SDK to interact with the deployed chaincode
 
 - **Programming Language**: Go, JavaScript, TypeScript, or Java (*Go is preferred*).
 
-## Notes
 
-- **No AI Tools Used**: The code was written manually without the use of AI tools (e.g., ChatGPT, Google Bard, etc.).
-- **GitHub Repo**: Please upload the assignment to a GitHub public repository and share the link as required.
 
 ## Troubleshooting
 
